@@ -1,0 +1,26 @@
+{
+  "name": "zetapush-cometd",
+  "version": "3.0.10",
+  "description": "Fork of (https://github.com/cometd/cometd) with full CommonJS support",
+  "main": "index.js",
+  "scripts": {},
+  "files": [
+    "lib/",
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zetapush/cometd.git"
+  },
+  "keywords": [
+    "cometd",
+    "zetapush"
+  ],
+  "author": "Grégory Houllier <gregory.houllier@zetapush.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zetapush/cometd/issues"
+  },
+  "homepage": "https://github.com/zetapush/cometd#readme"
+}
