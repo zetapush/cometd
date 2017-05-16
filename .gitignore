@@ -1,5 +1,6 @@
 target/
 overlays/
+node_modules/
 .classpath
 .project
 .settings
